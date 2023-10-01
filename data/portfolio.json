@@ -1,1 +1,124 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+    "name": "",
+    "headerTaglineOne": "Hello 👋 I'm Prasad Pilankar ",
+    "headerTaglineTwo": "Working with",
+    "headerTaglineThree": "Data | Backend | Cloud",
+    "headerTaglineFour": " based in California.",
+    "showCursor": false,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/pilanpra"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/prasad-pilankar-5b2627144/"
+        },
+        {
+            "id": "3",
+            "title": "Instagram",
+            "link": "https://www.instagram.com/thisispilankar/"
+        },
+        {
+            "id": "4",
+            "title": "Email",
+            "link": "mailto:prasad416pilankar@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "iMedOne",
+            "description": "Deutsche Telekom",
+            "imageSrc": "data:image/png;base64,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",
+            "url": "#"
+        },
+        {
+            "id": "2",
+            "title": "Fall Detection Alert System Using Android",
+            "description": "Android Application | Research ",
+            "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT54NHM-TL_cZe1JK97gD0wlwMC6IVUPpAwi-D4QgQT6xmnnhJIVGXUy8v_QV-2vn-dKA&usqp=CAU",
+            "url": "https://www.ijraset.com/fileserve.php?FID=16781"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Data Alchemy 📊",
+            "description": "Harness the power of data with my expertise in data engineering and analytics. I specialize in designing and optimizing data pipelines using technologies like Apache Kafka and Apache Spark. Whether it's Python for data manipulation or SQL for querying databases, I turn raw data into valuable insights."
+        },
+        {
+            "id": "2",
+            "title": " Code Wizardry 💻",
+            "description": "I craft robust backend systems that power your applications. Using Python, Java, and Node.js, I develop APIs, microservices, and server applications. Whether it's database management with SQL or NoSQL databases like MySQL, PostgreSQL, MongoDB, or Cassandra, I make sure your backend is secure, efficient, and ready to scale."
+        },
+        {
+            "id": "3",
+            "title": "Software Sorcery",
+            "description": "Turn your ideas into reality with cutting-edge software development. My toolkit includes Java, Kotlin, and a deep understanding of Android app development. I create engaging and intuitive applications with a focus on user experience. With a touch of AI and machine learning, I infuse intelligence into your software, making it stand out in the ,digital realm."
+        },
+        {
+            "id": "4",
+            "title": " Cloud Conjuring ☁️ ",
+            "description": "Unlock the potential of cloud computing with my skills in AWS, Azure, and Google Cloud. From architecting scalable solutions to managing cloud infrastructure, I ensure your applications run smoothly in the cloud. With proficiency in serverless computing and containerization using Docker and Kubernetes, I make the cloud your ally."
+        }
+    ],
+    "aboutpara": "",
+    "resume": {
+        "tagline": "👋  I'm a Software Developer and an aspiring Data Engineer.",
+        "description": "I'm a passionate technophile with expertise in a multitude of programming languages, including JavaScript, Python, C#.NET. Additionally, I have a strong foundation in database languages like MySQL, Postgres. Explore my digital realm to discover how I've harnessed these languages to create innovative solutions and deliver exceptional user experiences.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "September 2018- September 2022",
+                "type": "Full Time",
+                "position": "Software Developer at Deutsche Telekom Clinical Solutions",
+                "bullets": "At Deutsche Telekom, I honed my skills as a Software Developer, specializing in C# and .NET technologies. I played a pivotal role in developing innovative solutions, including mobile and web applications, and contributed to enhancing the digital experiences of hospital employees and patients."
+            },
+            {
+                "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+                "dates": "Jan 2023 - May 2022",
+                "type": "Full Time",
+                "position": "Backend Developer at saffron stays",
+                "bullets": "As a Backend Developer at Saffron Stays, I helped shape the infrastructure that powered the platform. My role involved creating robust backend systems, optimizing data flow, and ensuring the reliability and scalability of the technology behind the scenes."
+            },
+            {
+                "id": "9e95e5f7-b686-49a8-87e5-ae6e30377d91",
+                "dates": "August 2017 - May 2018",
+                "type": "Internship",
+                "position": "Project Intern at Coreview Pvt Ltd",
+                "bullets": "Creating innovative Android applications, enabling seamless communication and emergency assistance through sensor technologies like gyroscope and Bluetooth. I also developed real-time data pipelines for sensor data processing, contributing to data-driven decision-making processes."
+            }
+        ],
+        "education": {
+            "universityName": "Cal State University East Bay",
+            "universityDate": "2023-2025",
+            "universityPara": "Data Mining, Database Management, Business Intelligence"
+        },
+        "languages": [
+            "Python",
+            "C#",
+            "PHP",
+            "ASP.NET",
+            "Batch Scripting"
+        ],
+        "frameworks": [
+            "Apache Kafka",
+            "Apache Spark",
+            "Hadoop",
+            "SQL databases (e.g., MySQL, PostgreSQL)"
+        ],
+        "others": [
+            "ETL (Extract, Transform, Load)",
+            " Real-time data streaming",
+            "Data integration and data warehousing",
+            "Data pipeline development",
+            "MySQL"
+        ]
+    }
+}

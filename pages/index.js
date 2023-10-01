@@ -93,7 +93,7 @@ export default function Home() {
 
           <Socials className="mt-2 laptop:mt-5" />
         </div>
-        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
+        <div className="mt-10 laptop:mt-30 m-10 p-2 laptop:p-0" ref={workRef}>
           <h1 className="text-2xl text-bold">Work.</h1>
 
           <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
@@ -124,15 +124,27 @@ export default function Home() {
         {/* This button should not go into production */}
         {process.env.NODE_ENV === "development" && (
           <div className="fixed bottom-5 right-5">
-            <Link href="/edit">
-              <Button type="primary">Edit Data</Button>
+            {/* edit data button */}
+            <Link href="">
+              <Button type="primary"></Button> 
             </Link>
           </div>
         )}
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
           <h1 className="tablet:m-10 text-2xl text-bold">About.</h1>
           <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
-            {data.aboutpara}
+          Welcome to My Digital Universe!
+          👾🌌🚀          
+          </p>
+          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
+          I'm a passionate technophile with a Bachelor's in Computer Science, ready to warp into your data-driven, cloud-connected projects. With a background as a Software Developer at Deutsche Telekom, I've mastered the art of creating innovative solutions. From crafting real-time data pipelines to designing Android applications that bridge consumers with retailers, my galaxy of experience revolves around cutting-edge tech.
+          </p>
+
+          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
+          🌟 Let's embark on a journey through my projects, from AI-powered code to data analytics expeditions. Whether it's Data Engineering, Software Development, or Cloud Computing, I'm your trusty navigator through the digital cosmos. So, grab your tech goggles, because we're about to explore the future of data, one code at a time. 🚀
+          </p>
+
+          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
           </p>
         </div>
         <Footer />
