@@ -44,6 +44,13 @@
             "description": "Android Application | Research ",
             "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT54NHM-TL_cZe1JK97gD0wlwMC6IVUPpAwi-D4QgQT6xmnnhJIVGXUy8v_QV-2vn-dKA&usqp=CAU",
             "url": "https://www.ijraset.com/fileserve.php?FID=16781"
+        },
+        {
+            "id": "39dc4a55-ab89-4f3e-a877-f468855a8416",
+            "title": "Music Analytics ~ Old vs New",
+            "description": "Clustering and Data Mining Models",
+            "imageSrc": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo-768x432.png",
+            "url": "https://www.kaggle.com/code/prasadpil/old-songs-vs-new"
         }
     ],
     "services": [
