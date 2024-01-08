@@ -137,11 +137,11 @@ export default function Home() {
           👾🌌🚀          
           </p>
           <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
-          I'm a passionate technophile with a Bachelor's in Computer Science, ready to warp into your data-driven, cloud-connected projects. With a background as a Software Developer at Deutsche Telekom, I've mastered the art of creating innovative solutions. From crafting real-time data pipelines to designing Android applications that bridge consumers with retailers, my galaxy of experience revolves around cutting-edge tech.
+          I&aposm a passionate technophile with a Bachelor&aposs in Computer Science, ready to warp into your data-driven, cloud-connected projects. With a background as a Software Developer at Deutsche Telekom, I&aposve mastered the art of creating innovative solutions. From crafting real-time data pipelines to designing Android applications that bridge consumers with retailers, my galaxy of experience revolves around cutting-edge tech.
           </p>
 
           <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
-          🌟 Let's embark on a journey through my projects, from AI-powered code to data analytics expeditions. Whether it's Data Engineering, Software Development, or Cloud Computing, I'm your trusty navigator through the digital cosmos. So, grab your tech goggles, because we're about to explore the future of data, one code at a time. 🚀
+          🌟 Let&aposs embark on a journey through my projects, from AI-powered code to data analytics expeditions. Whether it&aposs Data Engineering, Software Development, or Cloud Computing, I&aposm your trusty navigator through the digital cosmos. So, grab your tech goggles, because we&aposre about to explore the future of data, one code at a time. 🚀
           </p>
 
           <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
